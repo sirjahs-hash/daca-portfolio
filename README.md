@@ -29,5 +29,5 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
  
 ## Kontaktc
  
-- **GitHub:** [github.com/sirjahs-hash](https://github.com/sirjahs-hash)
+- **GitHub:** [github.com/sira-hass](https://github.com/sirja-hass)
 - **Email:** sirja.hass@gmail.com
