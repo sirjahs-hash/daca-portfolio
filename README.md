@@ -30,5 +30,5 @@ Arendan DACA programmis praktilisi andmeanalüüsi ja andmeinseneeria oskusi. Po
 | [6](week-6/README.md) | Visualiseerimine ja andmelugu | Valmis |
 | [7](week-7/README.md) | Python, pandas ja RFM-analüüs | Valmis |
 | [8](week-8/README.md) | Python, API-d ja ETL-pipeline | Valmis |
-| [9](week-9/README.md) | Portfoolio ja karjäär | Lisamisel |
+| [9](week-9/README.md) | Värbamisjuhend ja portfoolio peer review | Valmis |
 | [10](week-10/README.md) | Portfoolio ja karjäär | Lisamisel |
