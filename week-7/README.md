@@ -16,10 +16,18 @@ Nende põhjal jagati kliendid segmentidesse `VIP Champions`, `Loyal`, `Potential
 
 ## Peamised leiud
 
-- `Potential` ja `Loyal` on suurimad kliendigrupid ning neid saab lojaalsusprogrammi ja sihitud pakkumistega kasvatada väärtuslikumateks klientideks.
-- `VIP Champions` on väiksem, kuid kõrge väärtusega segment. Neile sobivad varajane ligipääs uutele kollektsioonidele, tasuta saatmine ja personaalsem teenindus.
-- `At Risk` ja `Lost` vajavad kiiret tagasivõitmise kampaaniat, sest nende viimasest ostust on möödunud rohkem aega.
+- Analüüs hõlmas 2454 klienti ja ligikaudu 2,49 miljoni euro väärtuses oste.
+- 422 `VIP Champions` klienti moodustasid vaid 17,2% kliendibaasist, kuid genereerisid 41,7% käibest ehk ligikaudu 1,04 miljonit eurot.
+- `Potential` oli suurim segment: 713 klienti ehk 29,1% kliendibaasist. Neid saab lojaalsusprogrammi ja sihitud pakkumistega kasvatada väärtuslikumateks klientideks.
+- `Loyal` segmenti kuulus 697 klienti, kes andsid 31,2% käibest. Koos VIP-klientidega genereerisid nad 72,8% kogukäibest.
+- `At Risk` ja `Lost` segmentides oli kokku 622 klienti. Nende keskmisest viimasest ostust oli möödunud vastavalt ligikaudu 297 ja 487 päeva, mistõttu vajavad nad kiiret tagasivõitmise kampaaniat.
 - RFM-segmendid põhinevad tegelikul ostukäitumisel. Neid tasub võrrelda olemasoleva `loyalty_tier` väljaga, et leida vastuolud ametliku staatuse ja kliendi päris käitumise vahel.
+
+## Ärilised soovitused
+
+- Hoida `VIP Champions` kliente varajase ligipääsu, tasuta saatmise ja personaalse teenindusega.
+- Suunata `Potential` klientidele kordusostu soodustavad pakkumised, sest nad moodustavad suurima kasvupotentsiaaliga rühma.
+- Käivitada `At Risk` klientidele ajaliselt piiratud tagasivõitmise kampaania ning käsitleda `Lost` segmenti eraldi madalama kuluga automatiseeritud kampaanias.
 
 ## Väljundid
 

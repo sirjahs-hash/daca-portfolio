@@ -17,6 +17,15 @@ Arendan DACA programmis praktilisi andmeanalüüsi ja andmeinseneeria oskusi. Po
 2. [RFM-kliendisegmenteerimine Pythonis](week-7/README.md) — kliendisegmendid, visualiseeringud ja turundussoovitused
 3. [API-põhine ETL-pipeline](week-8/README.md) — automaatne andmete pärimine, töötlemine, visualiseerimine ja eksport
 
+![Turunduse tulemuslikkuse Power BI dashboard](week-5/individual/images/marketing_dashboard_2023_2024.png)
+
+## Mõõdetavad tulemused
+
+- Analüüsisin SQL-iga 3150 kliendikirjet ning tuvastasin 130 korduvat e-posti aadressi ja 380 puuduva e-postiga klienti.
+- Koostasin Pärnu müügiandmetest dashboardi, mis näitas 2024. aastal 4,3% käibekasvu ja suvekäibe 62% ülekaalu talve ees.
+- RFM-analüüsis tuvastasin 422 VIP-klienti, kes moodustasid 17,2% klientidest, kuid genereerisid 41,7% analüüsitud käibest.
+- API-põhine ETL-pipeline töötles ligikaudu 2,69 miljoni euro väärtuses müüki ja 2464 kliendi andmeid.
+
 ## Tööd nädalate kaupa
 
 | Nädal | Teema | Staatus |
