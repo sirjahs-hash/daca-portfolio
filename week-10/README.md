@@ -4,6 +4,9 @@
 
 Nädala 10 meeskonnatöö eesmärk oli võtta kokku UrbanStyle'i kümne nädala andmetöö ning esitada juhatusele peamised leiud, äriline mõju ja AI kasutamise õppetunnid. Meeskonna ühine lõpuesitlus on [Google Slidesis](https://docs.google.com/presentation/d/1iBQHFeCvxdUea-CU_Zz2cQaKRO6UKCX90DvVh5Q3hh0/edit?usp=sharing).
 
+- **Individuaalne artefakt:** [minu panus lõpuesitlusse](individual/final-presentation-contribution.md)
+- **Meeskonna artefakt:** [ühise lõpuesitluse kontekst ja link](team/README.md)
+
 ## Minu panus
 
 Minu vastutus oli esitluse Pythoni, RFM-analüüsi ja AI kasutamise osa. Koostasin ning esitlesin:
